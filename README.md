@@ -43,25 +43,25 @@ If you want see the all settings, you can use the follow command:
 $ git config -l
 ```
 
-> diff.astextplain.textconv=astextplain <br>
-> filter.lfs.clean=git-lfs clean -- %f
-> filter.lfs.smudge=git-lfs smudge -- %f
-> filter.lfs.process=git-lfs filter-process
-> filter.lfs.required=true
-> http.sslbackend=openssl
-> http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
-> core.autocrlf=true
-> core.fscache=true
-> core.symlinks=false
-> pull.rebase=false
-> credential.helper=manager-core
-> credential.https://dev.azure.com.usehttppath=true
-> init.defaultbranch=master
-> user.name=Your Name
-> user.email=youremail@gmail.com
-> core.repositoryformatversion=0
-> core.filemode=false
-> core.bare=false
-> core.logallrefupdates=true
-> core.symlinks=false
-> core.ignorecase=true
+> __diff.astextplain.textconv=astextplain <br>
+> filter.lfs.clean=git-lfs clean -- %f <br>
+> filter.lfs.smudge=git-lfs smudge -- %f <br>
+> filter.lfs.process=git-lfs filter-process <br>
+> filter.lfs.required=true <br>
+> http.sslbackend=openssl <br>
+> http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt <br>
+> core.autocrlf=true <br>
+> core.fscache=true <br>
+> core.symlinks=false <br>
+> pull.rebase=false <br>
+> credential.helper=manager-core <br>
+> credential.https://dev.azure.com.usehttppath=true <br>
+> init.defaultbranch=master <br>
+> user.name=Your Name <br>
+> user.email=youremail@gmail.com <br>
+> core.repositoryformatversion=0 <br>
+> core.filemode=false <br>
+> core.bare=false <br>
+> core.logallrefupdates=true <br>
+> core.symlinks=false <br>
+> core.ignorecase=true__
