@@ -24,7 +24,7 @@ $ git init
 
 __When you use git init by first time inside de git repository, you'll obtain the follow message:__
 
-> __Initialized empty Git repository in C:/Users/macie/OneDrive/Área de Trabalho/teste/.git/__
+> __Initialized empty Git repository in C:/Users/way/Archive/.git/__
 
 __When you use the git init command by second time inside the same git repository, you'll obtain the follow message:__
 
