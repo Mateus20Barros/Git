@@ -35,8 +35,8 @@ __When you use the git init command by second time inside the same git repositor
 
 ### :gear: Git Config
 
-__The command git config is the convenient function used to set Git configuration values in ``--global`` or ``--local`` level projects.__ <br>
-__These configuration levels correspond to text files in .gitconfig. Running git config modifies configuration text files.__
+__The command git config is the convenient function used to set Git configuration values in ``--global`` or ``--local`` level projects.
+These configuration levels correspond to text files in .gitconfig. Running git config modifies configuration text files.__ <br>
 
 __If you want see the all settings, you can use the follow command:__
 
