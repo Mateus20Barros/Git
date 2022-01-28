@@ -273,8 +273,7 @@ $ git merge "branch name"
 
 ### :bar_chart: Git Log
 
-__The command git log displays committed snapshots. It allows you to list and filter project history and search for specific changes. <br>
-While it git status allows the working directory and staging area to be inspected, it git log only works with committed history.__
+__The command git log displays committed snapshots. It allows you to list and filter project history and search for specific changes. While it git status allows the working directory and staging area to be inspected, it git log only works with committed history.__
 
 ___:small_orange_diamond: Show all commit history using standard formatting.___
 
