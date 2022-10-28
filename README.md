@@ -182,7 +182,7 @@ __A shortcut command that immediately creates a commit with a transmitted commit
 requests that a commit message be written. Passing the option -m will by pass the text editor's request in favor of an embedded message.__
 
 ```bash
-$ git commit -m "comiit message"
+$ git commit -m "commit message"
 ```
 
 ---
