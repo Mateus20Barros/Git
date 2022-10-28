@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://github.com/Mateus20Barros/Git/blob/main/assets/git_logo.png" height="290px" width="100%">
-</div> <br>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="180"/>
+</div>
+
+<br>
 
 __``This article is a simple way how people use "Git", to control your version codes.``__
 
@@ -338,7 +340,7 @@ __The command git pull is used to fetch and download content from remote reposit
 Merging remote upstream changes into the local repository is common in Git based collaboration workflows.__
 
 ```bash
-$ git pull <remote>
+$ git pull remote https://github.com/UserName/Git-Vesion-Control.git
 ```
 
 __Use the command above if the github repository has changed or added new features, and you want your project to be the same as the other.__
